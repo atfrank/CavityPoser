@@ -16,7 +16,7 @@ CavityPoser: Mining For Bound-Like Conformations of RNA Using a Binding Cavity S
 ### Install Dependencies
 ```
 git clone git@github.com:karoka/CavityPoser.git
-cd cavity_mining/
+cd CavityPoser/
 git clone --depth=1 git@github.com:atfrank/RNAPosers.git
 cd RNAPosers/
 make clean
